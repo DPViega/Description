@@ -26,8 +26,6 @@ _I'm very well!_
 
 **Are you studying??** 📚: Yes, I'm studying AI and Data Analysis, Python, and I want to learn CyberSec.
 
-**My Dream** ⚽: My dream is to be a soccer player and I'm fighting for it, but I need money to support myself while I don't have a contract; I need to pay for travel to and from training because I live far away, and I also need to pay for travel to tournaments.  So I'm studying to try to get some money to support myself in this dream...
-
 <footer>
 
 <!--
